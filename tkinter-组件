@@ -1,0 +1,28 @@
+Tkinter 常用组件
+
+    按钮
+        Button 按钮组件
+        RadioButton 单选框组件
+        checkButton 复选框组件
+        Listbox 列表框组件
+    文本输入组件
+        Entry 单行文本框组件
+        text 多行文本框组件
+    标签组件
+        Label 标签组件，可以显示图片和文字
+        Message 标签组件，可以根据内容将文字转换
+    菜单
+        Menu 菜单组件
+        MenuButton 菜单按钮组件，可以使用Menu代替
+    滚动条
+        scale 滑块组件
+        Scrollbar 滚动条组件
+    其他组件
+        Canvas 画布组件
+        Frame 框架组件，将多个组件编组
+        Toplevel 创建子窗口器组件
+--------------------- 
+作者：努力奔跑的一匹幼马 
+来源：CSDN 
+原文：https://blog.csdn.net/qq_42471503/article/details/81156555 
+版权声明：本文为博主原创文章，转载请附上博文链接！
